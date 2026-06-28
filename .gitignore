@@ -1,0 +1,5 @@
+# Bastidores / pipeline de conteúdo — não precisa ir para o site
+dados/
+*.zip
+__pycache__/
+push/node_modules/
