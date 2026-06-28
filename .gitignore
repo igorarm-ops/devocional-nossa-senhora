@@ -3,3 +3,4 @@ dados/
 *.zip
 __pycache__/
 push/node_modules/
+.impeccable/
