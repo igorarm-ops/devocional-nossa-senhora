@@ -1,5 +1,5 @@
 /* Service worker — cache do app shell para uso offline */
-const CACHE = "manto-v1";
+const CACHE = "manto-v2";
 const ARQUIVOS = [
   "./",
   "index.html",

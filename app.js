@@ -15,7 +15,8 @@
     santo: "Ensinamento de um Santo",
     papa: "Carta de um Papa",
     escritura: "Palavra de Deus",
-    veneravel: "Ensinamento de um Venerável"
+    veneravel: "Ensinamento de um Venerável",
+    oracao: "Oração da Igreja"
   };
   var MESES = ["janeiro","fevereiro","março","abril","maio","junho",
                "julho","agosto","setembro","outubro","novembro","dezembro"];
@@ -258,7 +259,7 @@
       var idx = -1;
       for (var i = 0; i < ANO.length; i++) { if (ANO[i].e === ens.id) { idx = i; break; } }
       html += '<button class="lista-item" data-idx="' + idx + '">' +
-                '<span class="num selo-tipo ' + ens.tipo + '">' + (ens.tipo === "papa" ? "✠" : ens.tipo === "escritura" ? "✝" : ens.tipo === "veneravel" ? "✦" : "★") + '</span>' +
+                '<span class="num selo-tipo ' + ens.tipo + '">' + (ens.tipo === "papa" ? "✠" : ens.tipo === "escritura" ? "✝" : ens.tipo === "veneravel" ? "✦" : ens.tipo === "oracao" ? "♱" : "★") + '</span>' +
                 '<span class="info"><span class="li-tema">' + ens.tema + '</span>' +
                 '<span class="li-fonte">' + ens.fonte + '</span></span></button>';
     });

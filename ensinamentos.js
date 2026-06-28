@@ -166,7 +166,7 @@ window.ENSINAMENTOS = [
     "tipo": "santo",
     "periodo": "1696–1787 · Bispo e Doutor da Igreja",
     "tema": "As glórias de Maria",
-    "ensinamento": "Maria é a Mãe da misericórdia, e o caminho mais seguro e fácil para chegar a Jesus. Quem a ela recorre não fica desamparado. Confiar-se a Maria é confiar-se à ternura de uma Mãe que tudo pode junto do seu Filho.",
+    "ensinamento": "Maria é a Mãe da misericórdia, e a esperança firme de quantos a ela se confiam. Quem a ela recorre não fica desamparado. Confiar-se a Maria é confiar-se à ternura de uma Mãe que tudo alcança junto do seu Filho.",
     "referencia": "As Glórias de Maria",
     "versiculo": "Mãe de misericórdia, vida, doçura e esperança nossa. (Salve Rainha)"
   },
@@ -413,7 +413,7 @@ window.ENSINAMENTOS = [
   {
     "id": 42,
     "fonte": "Oração 'Sub Tuum Praesidium'",
-    "tipo": "escritura",
+    "tipo": "oracao",
     "periodo": "Século III · A mais antiga oração mariana",
     "tema": "Ao vosso amparo nos acolhemos",
     "ensinamento": "À vossa proteção recorremos, santa Mãe de Deus; não desprezeis as súplicas que vos dirigimos em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó Virgem gloriosa e bendita. Sob o manto de Maria, a família encontra abrigo.",
@@ -442,7 +442,7 @@ window.ENSINAMENTOS = [
   },
   {
     "id": 45,
-    "fonte": "Nossa Senhora de Pentecostes",
+    "fonte": "Atos dos Apóstolos",
     "tipo": "escritura",
     "periodo": "Atos dos Apóstolos · No Cenáculo",
     "tema": "A Mãe que reza no meio dos seus",
